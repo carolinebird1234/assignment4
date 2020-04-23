@@ -1,2 +1,1 @@
-#just print hello world
-Print("Hello World!")
+Hello World!
